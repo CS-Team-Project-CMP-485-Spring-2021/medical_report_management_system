@@ -1,0 +1,35 @@
+.admin-login-page {
+  width: 100%;
+  height: 112%;
+  background-color: #02475e;
+  position: absolute;
+  top: 100px;
+  bottom: 0;
+
+  .title {
+    padding-top: 5px;
+  }
+}
+
+.sub-title {
+  margin: auto;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+}
+
+.login-page-form-container {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  background-color: white;
+  box-shadow: 2px 5px 20px #aaaaaa;
+  padding: 100px;
+  padding-bottom: 50px;
+  padding-top: 80px;
+  border-radius: 5px;
+  width: 550px;
+  margin: 25px auto 50px;
+}
