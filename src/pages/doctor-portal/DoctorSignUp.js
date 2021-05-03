@@ -87,7 +87,7 @@ class DoctorSignUp extends React.Component {
               <p className="account">
                 Already have an account?{" "}
                 <Link className="link" to="/doctorlogin">
-                  Sign Up
+                  Log In
                 </Link>
               </p>
             </form>
